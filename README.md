@@ -1,119 +1,32 @@
-# Comandos básicos de Git
+# Hola, soy Curro Portillo Guerrero 👋
 
-## 1️⃣ Transforma el directorio actual en un repositorio de Git
-Se añade un subdirectorio de `.git` con todos los archivos necesarios del repositorio.
-```bash
-git init
-```
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** — 1º año  
+Apasionado por el desarrollo web y la programación, construyendo mis bases con proyectos reales.
 
 ---
 
-## 2️⃣ Especifica qué archivos quieres añadir al repositorio (a staging area, staged)
-Prepara los archivos modificados.
-```bash
-git add <archivo>
-```
+## 🛠️ Stack actual
 
-Para añadir todos los archivos modificados:
-```bash
-git add .
-```
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 3️⃣ Confirma los cambios (a directorio git, committed)
-```bash
-git commit -m "Mensaje del commit"
-```
+## 🚀 Proyectos destacados
+
+- 🌐 **[Mi Portfolio](https://mi-portfolio-tau-two.vercel.app/)** — Portfolio personal con mis proyectos y habilidades
+- 🎮 **[NeoNBrawL](https://github.com/CurroPG/NeoNBrawL)** — Juego desarrollado en JavaScript
 
 ---
 
-## 4️⃣ Clona un repositorio existente
-```bash
-git clone <URL-del-repositorio>
-```
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curro-portillo-guerrero-075600390/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mi-portfolio-tau-two.vercel.app/)
 
 ---
 
-## 5️⃣ Muestra el estado de los archivos
-```bash
-git status
-```
-
----
-
-## 6️⃣ Muestra estado abreviado
-```bash
-git status -s
-```
-
----
-
-## 7️⃣ Ignora archivos
-Crea un archivo llamado `.gitignore` e incluye dentro los nombres o patrones de archivos que no quieras rastrear.
-
-Ejemplo:
-```
-*.log
-node_modules/
-.DS_Store
-```
-
----
-
-## 8️⃣ Mostrar los cambios: líneas exactas que fueron añadidas y eliminadas  
-Compara lo que tienes en tu directorio de trabajo con lo que está en el área de preparación.
-```bash
-git diff
-```
-
----
-
-## 9️⃣ Mostrar los cambios: líneas exactas que fueron añadidas y eliminadas  
-Compara tus cambios **preparados** con la última instantánea confirmada.
-```bash
-git diff --staged
-```
-
----
-
-## 🔟 Confirma los cambios sin pasar por el área de preparación (directamente al repositorio)
-```bash
-git commit -a -m "Mensaje del commit"
-```
-
----
-
-## 11️⃣ Eliminar archivos del directorio de trabajo y del área de preparación
-```bash
-git rm <archivo>
-```
-
----
-
-## 12️⃣ Renombrar archivos del directorio de trabajo y del área de preparación
-```bash
-git mv <nombre-antiguo> <nombre-nuevo>
-```
-
----
-
-## 13️⃣ Muestra el historial de confirmaciones
-```bash
-git log
-```
-
----
-
-## 14️⃣ Muestra sólo las dos últimas confirmaciones indicando las diferencias introducidas en cada una
-```bash
-git log -p -2
-```
-
----
-
-## 15️⃣ Rectifica el último commit
-```bash
-git commit --amend
-```
-"# CurroPG" 
+*Siempre aprendiendo, siempre construyendo* 🚧
