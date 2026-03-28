@@ -22,11 +22,24 @@ Apasionado por el desarrollo web y la programación, construyendo mis bases con 
 
 ---
 
+## 📊 Mis estadísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CurroPG&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CurroPG&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curro-portillo-guerrero-075600390/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mi-portfolio-tau-two.vercel.app/)
 
 ---
+![Visitas](https://komarev.com/ghpvc/?username=CurroPG&color=blue&style=flat)
 
 *Siempre aprendiendo, siempre construyendo* 🚧
