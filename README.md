@@ -53,9 +53,15 @@ Apasionado por la Ciberseguridad y la Inteligencia Artificial, construyendo mis 
 
 ---
 
-## 🏆 Trofeos
+## 🏅 Logros
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CurroPG&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-0075ca?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/+70%20Commits-238636?style=for-the-badge&logo=github&logoColor=white)
+![Proyectos%20Desplegados](https://img.shields.io/badge/2%20Proyectos%20Desplegados-8957e5?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
