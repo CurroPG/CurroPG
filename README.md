@@ -61,8 +61,6 @@ Apasionado por el desarrollo web y la programación, construyendo mis bases con 
 
 ## 🚀 Proyectos destacados
 
-## 🚀 Proyectos destacados
-
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
 | [🎮 NeoNBrawL](https://github.com/CurroPG/NeoNBrawL) | Juego arcade web con leaderboard global y metaprogresión | JS · CSS · Supabase |
