@@ -26,9 +26,7 @@ Apasionado por el desarrollo web y la programación, construyendo mis bases con 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CurroPG&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CurroPG&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=CurroPG&theme=tokyonight&hide_border=true" />
 
 </div>
 
