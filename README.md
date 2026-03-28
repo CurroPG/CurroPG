@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Curro+Portillo+%F0%9F%91%8B;Estudiante+de+DAM+%F0%9F%8E%93;Desarrollador+Web+%F0%9F%8C%90;Siempre+construyendo+algo+nuevo+%F0%9F%94%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Curro+Portillo+%F0%9F%91%8B;Estudiante+de+DAM+%F0%9F%8E%93;Desarrollador+de+Apps+%F0%9F%93%B1;Siempre+construyendo+algo+nuevo+%F0%9F%94%A8)](https://git.io/typing-svg)
 
 ![Visitas](https://komarev.com/ghpvc/?username=CurroPG&color=58A6FF&style=flat-square&label=Visitas+al+perfil)
 
@@ -11,11 +11,11 @@
 
 ## 👨‍💻 Sobre mí
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** — 1º año, desde Sevilla 🌞  
-Apasionado por el desarrollo web y la programación, construyendo mis bases con proyectos reales.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** — 1º año, desde Antequera, Málaga 🌞  
+Apasionado por la Ciberseguridad y la Inteligencia Artificial, construyendo mis bases con proyectos reales.
 
 - 🎮 Creé **NeoNBrawL**, un juego arcade web con leaderboard global y sistema de metaprogresión
-- 🌱 Actualmente aprendiendo **React** y profundizando en **JavaScript**
+- 🌱 Actualmente aprendiendo **SQL**, **Java**, **HTML**, **CSS** y profundizando en **JavaScript**
 - 🔨 Siempre con algo en construcción
 - 💬 Pregúntame sobre Java, JavaScript o desarrollo web
 
